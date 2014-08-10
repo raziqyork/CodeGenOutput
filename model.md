@@ -1,5 +1,5 @@
 invalid = new Meteor.Collection("");
-Payments = new Meteor.Collection("payment");
+Payments = new Meteor.Collection("");
 ## [CLASS] Payment
 * [Property] __id__: *UMLPrimitiveTypes::Integer*
 * [Property] __member__: *UMLPrimitiveTypes::Integer*

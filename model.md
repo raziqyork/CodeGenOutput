@@ -1,3 +1,8 @@
+Attempt:7
+
+""
+invalid
+invalid
 invalid = new Meteor.Collection("");
 Payments = new Meteor.Collection("");
 ## [CLASS] Payment

@@ -1,7 +1,7 @@
-Attempt:12
+Attempt:13
 a:
-b:
-c:""
+b:org.eclipse.uml2.uml.internal.impl.ClassImpl@6a33065d (name: Payment, visibility: <unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false)
+c:"Payment"
 d:invalid
 e:invalid
 f:invalid = new Meteor.Collection("");

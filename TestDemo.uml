@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Wb4X8CAgEeSO_KKT_ONbFQ" name="model">
-  <eAnnotations xmi:id="_Wb4X8SAgEeSO_KKT_ONbFQ" source="genmymodel">
-    <details xmi:id="_Wb4X8iAgEeSO_KKT_ONbFQ" key="uuid" value="9e833bfd-698a-428c-9d52-6fecdc642e52"/>
-    <contents xsi:type="com.genmymodel.graphic.uml:ClassDiagram" xmi:id="_Wb4X8yAgEeSO_KKT_ONbFQ" name="defaultDiagram">
-      <eAnnotations xmi:id="_Wb4X9CAgEeSO_KKT_ONbFQ" source="genmymodel">
-        <details xmi:id="_Wb4X9SAgEeSO_KKT_ONbFQ" key="uuid" value="_NA_6ER_tEeSehIZyjLU8AQ"/>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_B-Oj0CAnEeSO_KKT_ONbFQ" name="model">
+  <eAnnotations xmi:id="_B-Oj0SAnEeSO_KKT_ONbFQ" source="genmymodel">
+    <details xmi:id="_B-Oj0iAnEeSO_KKT_ONbFQ" key="uuid" value="9e833bfd-698a-428c-9d52-6fecdc642e52"/>
+    <contents xsi:type="com.genmymodel.graphic.uml:ClassDiagram" xmi:id="_B-Oj0yAnEeSO_KKT_ONbFQ" name="defaultDiagram">
+      <eAnnotations xmi:id="_B-Oj1CAnEeSO_KKT_ONbFQ" source="genmymodel">
+        <details xmi:id="_B-Oj1SAnEeSO_KKT_ONbFQ" key="uuid" value="_NA_6ER_tEeSehIZyjLU8AQ"/>
       </eAnnotations>
-      <plane xmi:id="_Wb4X9iAgEeSO_KKT_ONbFQ" modelElement="_Wb4X8CAgEeSO_KKT_ONbFQ">
-        <eAnnotations xmi:id="_Wb4X9yAgEeSO_KKT_ONbFQ" source="genmymodel">
-          <details xmi:id="_Wb4X-CAgEeSO_KKT_ONbFQ" key="uuid" value="_NA_6Eh_tEeSehIZyjLU8AQ"/>
+      <plane xmi:id="_B-Oj1iAnEeSO_KKT_ONbFQ" modelElement="_B-Oj0CAnEeSO_KKT_ONbFQ">
+        <eAnnotations xmi:id="_B-Oj1yAnEeSO_KKT_ONbFQ" source="genmymodel">
+          <details xmi:id="_B-Oj2CAnEeSO_KKT_ONbFQ" key="uuid" value="_NA_6Eh_tEeSehIZyjLU8AQ"/>
         </eAnnotations>
-        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_Wb4X-SAgEeSO_KKT_ONbFQ" modelElement="_Wb4YESAgEeSO_KKT_ONbFQ" x="110" y="140" minWidth="60" minHeight="80">
-          <eAnnotations xmi:id="_Wb4X-iAgEeSO_KKT_ONbFQ" source="genmymodel">
-            <details xmi:id="_Wb4X-yAgEeSO_KKT_ONbFQ" key="uuid" value="_OZ5I4AIbEDKTKdkPGnbwMg"/>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_B-Oj2SAnEeSO_KKT_ONbFQ" modelElement="_B-Oj8SAnEeSO_KKT_ONbFQ" x="110" y="140" minWidth="60" minHeight="80">
+          <eAnnotations xmi:id="_B-Oj2iAnEeSO_KKT_ONbFQ" source="genmymodel">
+            <details xmi:id="_B-Oj2yAnEeSO_KKT_ONbFQ" key="uuid" value="_OZ5I4AIbEDKTKdkPGnbwMg"/>
           </eAnnotations>
-          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_Wb4X_CAgEeSO_KKT_ONbFQ" modelElement="_Wb4YFCAgEeSO_KKT_ONbFQ">
-            <eAnnotations xmi:id="_Wb4X_SAgEeSO_KKT_ONbFQ" source="genmymodel">
-              <details xmi:id="_Wb4X_iAgEeSO_KKT_ONbFQ" key="uuid" value="_a0kVgAJKEDKmA6zGsqgDWw"/>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_B-Oj3CAnEeSO_KKT_ONbFQ" modelElement="_B-Oj9CAnEeSO_KKT_ONbFQ">
+            <eAnnotations xmi:id="_B-Oj3SAnEeSO_KKT_ONbFQ" source="genmymodel">
+              <details xmi:id="_B-Oj3iAnEeSO_KKT_ONbFQ" key="uuid" value="_a0kVgAJKEDKmA6zGsqgDWw"/>
             </eAnnotations>
           </ownedDiagramElements>
-          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_Wb4X_yAgEeSO_KKT_ONbFQ" modelElement="_Wb4YFyAgEeSO_KKT_ONbFQ">
-            <eAnnotations xmi:id="_Wb4YACAgEeSO_KKT_ONbFQ" source="genmymodel">
-              <details xmi:id="_Wb4YASAgEeSO_KKT_ONbFQ" key="uuid" value="_VuNrEAIbEDKTKdkPGnbwMg"/>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_B-Oj3yAnEeSO_KKT_ONbFQ" modelElement="_B-Oj9yAnEeSO_KKT_ONbFQ">
+            <eAnnotations xmi:id="_B-Oj4CAnEeSO_KKT_ONbFQ" source="genmymodel">
+              <details xmi:id="_B-Oj4SAnEeSO_KKT_ONbFQ" key="uuid" value="_VuNrEAIbEDKTKdkPGnbwMg"/>
             </eAnnotations>
           </ownedDiagramElements>
-          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_Wb4YAiAgEeSO_KKT_ONbFQ" modelElement="_Wb4YGiAgEeSO_KKT_ONbFQ">
-            <eAnnotations xmi:id="_Wb4YAyAgEeSO_KKT_ONbFQ" source="genmymodel">
-              <details xmi:id="_Wb4YBCAgEeSO_KKT_ONbFQ" key="uuid" value="_k35nAAIbEDKTKdkPGnbwMg"/>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_B-Oj4iAnEeSO_KKT_ONbFQ" modelElement="_B-Oj-iAnEeSO_KKT_ONbFQ">
+            <eAnnotations xmi:id="_B-Oj4yAnEeSO_KKT_ONbFQ" source="genmymodel">
+              <details xmi:id="_B-Oj5CAnEeSO_KKT_ONbFQ" key="uuid" value="_k35nAAIbEDKTKdkPGnbwMg"/>
             </eAnnotations>
           </ownedDiagramElements>
-          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_Wb4YBSAgEeSO_KKT_ONbFQ" modelElement="_Wb4YHSAgEeSO_KKT_ONbFQ">
-            <eAnnotations xmi:id="_Wb4YBiAgEeSO_KKT_ONbFQ" source="genmymodel">
-              <details xmi:id="_Wb4YByAgEeSO_KKT_ONbFQ" key="uuid" value="_aq5AcAIbEDKTKdkPGnbwMg"/>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_B-Oj5SAnEeSO_KKT_ONbFQ" modelElement="_B-PK4SAnEeSO_KKT_ONbFQ">
+            <eAnnotations xmi:id="_B-Oj5iAnEeSO_KKT_ONbFQ" source="genmymodel">
+              <details xmi:id="_B-Oj5yAnEeSO_KKT_ONbFQ" key="uuid" value="_aq5AcAIbEDKTKdkPGnbwMg"/>
             </eAnnotations>
           </ownedDiagramElements>
-          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_Wb4YCCAgEeSO_KKT_ONbFQ" modelElement="_Wb4YICAgEeSO_KKT_ONbFQ">
-            <eAnnotations xmi:id="_Wb4YCSAgEeSO_KKT_ONbFQ" source="genmymodel">
-              <details xmi:id="_Wb4YCiAgEeSO_KKT_ONbFQ" key="uuid" value="_tL_kIAIbEDKTKdkPGnbwMg"/>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_B-Oj6CAnEeSO_KKT_ONbFQ" modelElement="_B-PK5CAnEeSO_KKT_ONbFQ">
+            <eAnnotations xmi:id="_B-Oj6SAnEeSO_KKT_ONbFQ" source="genmymodel">
+              <details xmi:id="_B-Oj6iAnEeSO_KKT_ONbFQ" key="uuid" value="_tL_kIAIbEDKTKdkPGnbwMg"/>
             </eAnnotations>
           </ownedDiagramElements>
         </ownedDiagramElements>
       </plane>
     </contents>
   </eAnnotations>
-  <packageImport xmi:id="_Wb4YCyAgEeSO_KKT_ONbFQ">
-    <eAnnotations xmi:id="_Wb4YDCAgEeSO_KKT_ONbFQ" source="genmymodel">
-      <details xmi:id="_Wb4YDSAgEeSO_KKT_ONbFQ" key="uuid" value="_NA-r8B_tEeSehIZyjLU8AQ"/>
+  <packageImport xmi:id="_B-Oj6yAnEeSO_KKT_ONbFQ">
+    <eAnnotations xmi:id="_B-Oj7CAnEeSO_KKT_ONbFQ" source="genmymodel">
+      <details xmi:id="_B-Oj7SAnEeSO_KKT_ONbFQ" key="uuid" value="_NA-r8B_tEeSehIZyjLU8AQ"/>
     </eAnnotations>
     <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
   </packageImport>
-  <packageImport xmi:id="_Wb4YDiAgEeSO_KKT_ONbFQ">
-    <eAnnotations xmi:id="_Wb4YDyAgEeSO_KKT_ONbFQ" source="genmymodel">
-      <details xmi:id="_Wb4YECAgEeSO_KKT_ONbFQ" key="uuid" value="_NA_6EB_tEeSehIZyjLU8AQ"/>
+  <packageImport xmi:id="_B-Oj7iAnEeSO_KKT_ONbFQ">
+    <eAnnotations xmi:id="_B-Oj7yAnEeSO_KKT_ONbFQ" source="genmymodel">
+      <details xmi:id="_B-Oj8CAnEeSO_KKT_ONbFQ" key="uuid" value="_NA_6EB_tEeSehIZyjLU8AQ"/>
     </eAnnotations>
     <importedPackage href="pathmap://GENMYMODEL_LIBRARIES/GenMyModelPrimitiveTypes.library.uml#/"/>
   </packageImport>
-  <packagedElement xsi:type="uml:Class" xmi:id="_Wb4YESAgEeSO_KKT_ONbFQ" name="Payment">
-    <eAnnotations xmi:id="_Wb4YEiAgEeSO_KKT_ONbFQ" source="genmymodel">
-      <details xmi:id="_Wb4YEyAgEeSO_KKT_ONbFQ" key="uuid" value="_OZ4h0AIbEDKTKdkPGnbwMg"/>
+  <packagedElement xsi:type="uml:Class" xmi:id="_B-Oj8SAnEeSO_KKT_ONbFQ" name="Payment">
+    <eAnnotations xmi:id="_B-Oj8iAnEeSO_KKT_ONbFQ" source="genmymodel">
+      <details xmi:id="_B-Oj8yAnEeSO_KKT_ONbFQ" key="uuid" value="_OZ4h0AIbEDKTKdkPGnbwMg"/>
     </eAnnotations>
-    <ownedAttribute xmi:id="_Wb4YFCAgEeSO_KKT_ONbFQ" name="id">
-      <eAnnotations xmi:id="_Wb4YFSAgEeSO_KKT_ONbFQ" source="genmymodel">
-        <details xmi:id="_Wb4YFiAgEeSO_KKT_ONbFQ" key="uuid" value="_a0h5QAJKEDKmA6zGsqgDWw"/>
+    <ownedAttribute xmi:id="_B-Oj9CAnEeSO_KKT_ONbFQ" name="id">
+      <eAnnotations xmi:id="_B-Oj9SAnEeSO_KKT_ONbFQ" source="genmymodel">
+        <details xmi:id="_B-Oj9iAnEeSO_KKT_ONbFQ" key="uuid" value="_a0h5QAJKEDKmA6zGsqgDWw"/>
       </eAnnotations>
       <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Integer"/>
     </ownedAttribute>
-    <ownedAttribute xmi:id="_Wb4YFyAgEeSO_KKT_ONbFQ" name="member">
-      <eAnnotations xmi:id="_Wb4YGCAgEeSO_KKT_ONbFQ" source="genmymodel">
-        <details xmi:id="_Wb4YGSAgEeSO_KKT_ONbFQ" key="uuid" value="_VuL14AIbEDKTKdkPGnbwMg"/>
+    <ownedAttribute xmi:id="_B-Oj9yAnEeSO_KKT_ONbFQ" name="member">
+      <eAnnotations xmi:id="_B-Oj-CAnEeSO_KKT_ONbFQ" source="genmymodel">
+        <details xmi:id="_B-Oj-SAnEeSO_KKT_ONbFQ" key="uuid" value="_VuL14AIbEDKTKdkPGnbwMg"/>
       </eAnnotations>
       <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Integer"/>
     </ownedAttribute>
-    <ownedAttribute xmi:id="_Wb4YGiAgEeSO_KKT_ONbFQ" name="name">
-      <eAnnotations xmi:id="_Wb4YGyAgEeSO_KKT_ONbFQ" source="genmymodel">
-        <details xmi:id="_Wb4YHCAgEeSO_KKT_ONbFQ" key="uuid" value="_k34Y4AIbEDKTKdkPGnbwMg"/>
+    <ownedAttribute xmi:id="_B-Oj-iAnEeSO_KKT_ONbFQ" name="name">
+      <eAnnotations xmi:id="_B-Oj-yAnEeSO_KKT_ONbFQ" source="genmymodel">
+        <details xmi:id="_B-PK4CAnEeSO_KKT_ONbFQ" key="uuid" value="_k34Y4AIbEDKTKdkPGnbwMg"/>
       </eAnnotations>
       <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
     </ownedAttribute>
-    <ownedAttribute xmi:id="_Wb4YHSAgEeSO_KKT_ONbFQ" name="amount">
-      <eAnnotations xmi:id="_Wb4YHiAgEeSO_KKT_ONbFQ" source="genmymodel">
-        <details xmi:id="_Wb4YHyAgEeSO_KKT_ONbFQ" key="uuid" value="_aq1WEAIbEDKTKdkPGnbwMg"/>
+    <ownedAttribute xmi:id="_B-PK4SAnEeSO_KKT_ONbFQ" name="amount">
+      <eAnnotations xmi:id="_B-PK4iAnEeSO_KKT_ONbFQ" source="genmymodel">
+        <details xmi:id="_B-PK4yAnEeSO_KKT_ONbFQ" key="uuid" value="_aq1WEAIbEDKTKdkPGnbwMg"/>
       </eAnnotations>
       <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Integer"/>
     </ownedAttribute>
-    <ownedAttribute xmi:id="_Wb4YICAgEeSO_KKT_ONbFQ" name="isRecurring">
-      <eAnnotations xmi:id="_Wb4YISAgEeSO_KKT_ONbFQ" source="genmymodel">
-        <details xmi:id="_Wb4YIiAgEeSO_KKT_ONbFQ" key="uuid" value="_tL7SsAIbEDKTKdkPGnbwMg"/>
+    <ownedAttribute xmi:id="_B-PK5CAnEeSO_KKT_ONbFQ" name="isRecurring">
+      <eAnnotations xmi:id="_B-PK5SAnEeSO_KKT_ONbFQ" source="genmymodel">
+        <details xmi:id="_B-PK5iAnEeSO_KKT_ONbFQ" key="uuid" value="_tL7SsAIbEDKTKdkPGnbwMg"/>
       </eAnnotations>
       <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Boolean"/>
     </ownedAttribute>

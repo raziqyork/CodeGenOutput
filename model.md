@@ -1,4 +1,4 @@
- = new Meteor.Collection("payment");
+ = new Meteor.Collection("");
 Payments = new Meteor.Collection("payment");
 ## [CLASS] Payment
 * [Property] __id__: *UMLPrimitiveTypes::Integer*

@@ -1,14 +1,14 @@
 
-Attempt:17
+Attempt:18
 a:
-b:org.eclipse.uml2.uml.internal.impl.ClassImpl@5cc0dea4 (name: Payment, visibility: <unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false)
+b:org.eclipse.uml2.uml.internal.impl.ClassImpl@7cd014bf (name: Payment, visibility: <unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false)
 c:"Payment"
 d:invalid
 e:invalid
 f:invalid = new Meteor.Collection("");
 g:Payments = new Meteor.Collection("");
 h:"true"
-i:"abc123"
+i:"Payments"
 ## [CLASS] Payment
 * [Property] __id__: *UMLPrimitiveTypes::Integer*
 * [Property] __member__: *UMLPrimitiveTypes::Integer*

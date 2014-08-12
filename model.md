@@ -1,6 +1,6 @@
-Attempt:22
+Attempt:23
 a:items
-b:org.eclipse.uml2.uml.internal.impl.ClassImpl@4ac36cc1 (name: Payment, visibility: <unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false)
+b:org.eclipse.uml2.uml.internal.impl.ClassImpl@2cd44b15 (name: Payment, visibility: <unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false)
 c:indexes
 d:Countries
 e:Payments
